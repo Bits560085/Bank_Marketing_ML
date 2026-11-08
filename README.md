@@ -98,3 +98,8 @@ python -m streamlit run app.py
 
 ## 10. Conclusion
 This project demonstrates the use of five machine learning classification algorithms for predicting bank marketing subscription outcomes. The models were evaluated using multiple performance metrics, and the results were presented through an interactive Streamlit application.
+
+# 11. Project Links
+- **GitHub Repository:** https://github.com/Bits560085/Bank_Marketing_ML
+- **Live Streamlit Application:** https://bankmarketingml-xphzai3xxmx24xu8hve7mc.streamlit.app/
+- **Dataset Source:** https://archive.ics.uci.edu/dataset/222/bank+marketing
